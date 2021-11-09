@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Circleash's github stats](https://github-readme-stats.vercel.app/api?circleash=circleash)](https://github.com/circleash/github-readme-stats)
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
 <!---
